@@ -35,7 +35,4 @@ Troubleshooting Labs
 Coming soon — technical troubleshooting scenarios involving software, networking, and systems.
 
 🎯 Career Goal
-
-I'm working toward a career in Software Quality Assurance, with a long-term goal of developing skills in test automation and software engineering.
-
 I'm working toward a career in Software Quality Assurance, with a long-term goal of developing skills in test automation and software engineering.
